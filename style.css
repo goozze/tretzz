@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+.qwe{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+header{
+
+    padding: 20px;   
+    background-color: rgb(197, 197, 197);
+}
+
+.link-headera{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px;
+    color: black;
+    font-size: 25px;
+}
+
+nav{
+    margin-top: 10px;
+}
+
+.link-headera:hover{
+    background-color: orangered;
+    transition: 200ms all ;
+}
+
+.link-header{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px;
+    color: black;
+    margin-left: 20px;
+}
+
+.link-header:hover{
+    background-color: orangered;
+    transition: 200ms all ;
+}
